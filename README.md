@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/nerd-fonts-logo.png" alt="Nerd Fonts Logo" />
+  <img src="images/header.jpg" alt="OstKost header" />
 </h1>
 
 **Frontend Developer**  
