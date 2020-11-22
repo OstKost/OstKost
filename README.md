@@ -1,50 +1,27 @@
-[![](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/images/0)](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/links/0)[![](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/images/1)](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/links/1)[![](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/images/2)](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/links/2)[![](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/images/3)](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/links/3)[![](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/images/4)](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/links/4)[![](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/images/5)](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/links/5)[![](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/images/6)](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/links/6)[![](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/images/7)](https://sourcerer.io/fame/OstKost/OstKost/sourcerer/links/7)
+<h1 align="center">Hi 👋, I'm Konstantin</h1>
+<h3 align="center">Web developer focused on frontend, but not forget to learn backend. Otherwords, full-stack.</h3>
 
-<h1 align="center">
-  <img src="images/header.jpg" alt="OstKost header" />
-</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ostkost&label=Profile%20views&color=0e75b6&style=flat" alt="ostkost" /> </p>
 
-**Frontend Developer**  
+- 🔭 I’m currently working on **Inetcore**
 
-## Содержание
+- 🌱 I’m currently learning **Flutter, Gatsby**
 
-[**TL;DR**](#tldr)
+- 👨‍💻 All of my projects are available at [OstKost.ru](OstKost.ru)
 
-[**Параметры Установки**](#font-installation)
-  * [**1 - Руководство**](#option-1-download-and-install-manually)
-  * [**2 - Архив Выпусков**](#option-2-release-archive-download)
-  * [**3 - Установочный Скрипт**](#option-3-install-script)
-  * [**4 - Шрифты Homebrew (macOS (OS X))**](#option-4-homebrew-fonts)
-  * [**5 - Клонировать репозиторий**](#option-5-clone-the-repo)
-  * [**6 - Скачать Ad Hoc Curl**](#option-6-ad-hoc-curl-download)
-  * [**7 - Пользовательский репозиторий Arch (AUR) (Arch Linux)**](#option-7-unofficial-arch-user-repository-aur)
-  * [**8 - Исправить свой собственный шрифт**](#option-8-patch-your-own-font)
+- 💬 Ask me about **React, Vue**
 
-### Различные технологии
+- 📫 How to reach me **Web@ostkost.ru**
 
-_Умею..._
+- 📄 Know about my experiences [Hh.ru](Hh.ru)
 
-  * `React`
-  * `Vue`
-  * `Express`  
-  
-_Изучаю..._
-  
-  * `Gatsby`
-  * `Nest`
-  * `GraphQL`
-  
-<!--
-**OstKost/OstKost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact **I came to web development from 1C:Enterprise. Huh...**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ostkost&show_icons=true&locale=en&layout=compact" alt="ostkost" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ostkost&show_icons=true&locale=en" alt="ostkost" /></p>
+
