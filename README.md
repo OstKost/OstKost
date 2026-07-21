@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ostkost&label=Profile%20views&color=0e75b6&style=flat" alt="ostkost" /> </p>
 
 - 🏗️ Currently working as **Head of Development** — leading teams, shaping architecture, and building processes
-- 🔭 Background: **Senior Frontend → Middle+ Go Backend → Engineering Lead**
-- 🌱 Currently deep-diving into **Highload systems, DevOps, AI-assisted development & management**
-- 🛠️ Building: microservices, REST APIs, VPN infrastructure (WireGuard / MTProto), monitoring & audit tools
-- 💬 Ask me about **Go, system design, team leadership, Docker, CI/CD, backend architecture**
+- 🔭 Background: **Senior Frontend → Middle Go Backend → Engineering Lead**
+- 🌱 Currently deep-diving into **Highload systems, AI-assisted development & management**
+- 🛠️ Building: microservices, REST APIs, monitoring & audit tools
+- 💬 Ask me about **Go, system design, team leadership, CI/CD, architecture**
 - 📫 Reach me at **Web@ostkost.ru**
 - 📄 CV & experience on [hh.ru](https://hh.ru)
 - ⚡ Fun fact: **Started from 1C:Enterprise, went through frontend, now leading backend teams. Quite a journey.**
